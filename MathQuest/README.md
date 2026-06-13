@@ -2,6 +2,9 @@
 
 A React, TypeScript, and Tailwind CSS version of the solo math board game. It includes a PHP API and MySQL schema for saving player scores with XAMPP.
 
+## Access the Web using this URL
+https://golden-pothos-c6bf3e.netlify.app/
+
 ## Run The Game
 
 ```bash
